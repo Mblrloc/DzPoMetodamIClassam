@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\4ba5e879026fea9b3fb2beb2acd0f109d616becc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\pre-dexed\debug\classes_a0e0d2619d9bae3727755a497595ca9da626483b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\f86e0d402d7ef9c433ef51809c67681bf868967d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\pre-dexed\debug\classes_a728fc74e51a404da69ce1db315de29755dcff08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\2696266980d30e3c458e6541a20978b13140c777\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\pre-dexed\debug\classes_e235c6015570dbe14835b9bf2c65479fdea895c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\cdd0b3076cd9445d4cfa62b08309518a86c49f18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\pre-dexed\debug\classes_54e6bf757fd13213b86f549fb0239d665f6843ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bdf8499f83047c44fa7928a53c6fa83eb65e2d4">
+        <dex dex="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_eff617c4ad44a4404742c3a9f5a6281575391146\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\5c61dd97c2ff8cbe82f2297b9ab2f66892a4855c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\pre-dexed\debug\classes_bca382bb060c64c389df7eb495165c37e4ed420a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\30c365306cc41325789c3a2d70eb7c6884e3f75a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\pre-dexed\debug\classes_25063882eedef9748161589ad9e341fac3f5e4d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\.android\build-cache\f86e0d402d7ef9c433ef51809c67681bf868967d\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_87b16cc40cc9e3ca6a130c96e7e429db403759bf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_78905a067566c36b3be7e872df889f3df0f191f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alexb\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Javaprojects\LogCat.2.3.1\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_e8b873524c5e42fcc51de69cde640847c51d51c1.jar" />
+    </item>
+
+</items>
